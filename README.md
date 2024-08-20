@@ -16,7 +16,7 @@ I am a passionate automation engineer that specialises in Powershell. Welcome to
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
